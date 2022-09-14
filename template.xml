@@ -1,0 +1,13 @@
+﻿<AudioQueues>
+	<AudioQueue>
+		<Name>queuename</Name>
+		<VoiceLines>
+			<VoiceLine>
+				<SpeakerName>name</SpeakerName>
+				<AudioFile>filename</AudioFile>
+				<Duration>0</Duration>
+				<AfterPause>0</AfterPause>
+			</VoiceLine>
+		</VoiceLines>
+	</AudioQueue>
+</AudioQueues>

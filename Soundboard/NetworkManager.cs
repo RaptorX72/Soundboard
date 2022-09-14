@@ -1,0 +1,4 @@
+﻿namespace Soundboard {
+	class NetworkManager {
+	}
+}
